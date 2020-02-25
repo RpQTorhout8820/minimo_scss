@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css?family=Inconsolata|Playfair+Display&display=swap');
+
+/*font-family: 'Inconsolata', monospace;*/
+/*font-family: 'Playfair Display', serif;*/
+
+.my-6{
+    margin-top:61px;
+    margin-bottom:61px;
+}
+
+body{
+    font-family: 'Playfair Display', serif;
+    font-size: 0.875rem;
+
+
+
+}
+
+a[href]{
+    color: #000000;
+}
+
+.navbar-brand{
+    font-family: 'Inconsolata', monospace;
+    font-size: 30px;
+    letter-spacing: 5px;
+
+
+}
+
+.nav-link{
+   text-transform: uppercase;
+
+}
+
+.navbar-nav{
+    padding-top: 13px;
+}
+
+h2{
+    font-size: 1rem;
+    text-transform: uppercase;
+}
+
+h3{
+    font-size: 2rem
+}
+
