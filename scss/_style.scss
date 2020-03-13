@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Inconsolata|Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Inconsolata|Playfair+Display&display=swap|Ubuntu&display=swap');
 
 /*font-family: 'Inconsolata', monospace;*/
 /*font-family: 'Playfair Display', serif;*/
@@ -38,11 +38,40 @@ a[href]{
 }
 
 h2{
+    font-family: 'Ubuntu', sans-serif;
     font-size: 1rem;
     text-transform: uppercase;
+
+
+
 }
 
 h3{
     font-size: 2rem
 }
 
+
+.signup{
+    height: 286px;
+input{
+    margin-top: 85px;
+    height: 2rem;
+    border-style: none;
+    border-bottom: 1px solid;
+    vertical-align: bottom;
+    }
+button{
+    margin-top: 85px;
+    height: 2rem;
+    border-style: none;
+    
+    border-bottom: 1px solid;
+}
+
+
+}
+
+
+.btnbtm{
+    padding-top: 160px;
+}
